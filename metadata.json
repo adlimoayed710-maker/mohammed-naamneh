@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Mohammed Al-Naamneh Dental AI",
+  "description": "Advanced dental simulation platform using Generative AI for smile makeovers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
